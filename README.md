@@ -8,3 +8,9 @@
 * Graph algorithms are provided with python implementation. The minimum graphical interface and many groups that enforce this interface are specified. Any unsafe python artifacts may be graph nodes. The leading edges are type Edge examples. Graphs are graph level examples. It is based on the lists of neighboring images, but with a simple look-up of nodes and neighbors. It is also important for other implementations of this type.
 * In this work, many algorithms are implemented using a unified approach. There are separate classes and modules devoted to different algorithms. Three algorithms for finding a minimum spanning tree are implemented: the Boruvka's algorithm, the Prim's algorithm (three implementations), and the Kruskal's algorithm. 
 * In this Particular Project We use Prim's algorithms. *
+
+
+
+
+
+![Screenshot](http://farm3.staticflickr.com/2943/15336251541_1e574aff63.jpg) 
